@@ -41,21 +41,29 @@ salty, and spicy. </blockquote>
 <table>
 <caption> Recipe Details </caption>
 <tr>
-    <td>Ingredient</td>
-    <td>Quantity</td>
+    <th>Ingredient</th>
+    <th>Quantity</th>
 </tr>
 <tr>
     <td>Lemongrass</td>
-    <td>2 Stalks</td>
-    <td>Thai Badsil</td>
-    <td>1 Cup</td>
+    <td>Thai Basil</td>
     <td>Kaffir Lime Leaves</td>
-    <td>3 Leaves</td>
     <td>Shirmp</td>
-    <td>500g</td>
 </tr>
-
-
+<tr>
+    <td>2 Stalks</td>
+    <td>1 Cup</td>
+    <td>3 Leaves</td>
+    <td>500 g</td>
+</tr>
+<tr>
+   <td colspan="2">Preparation Time:20 Minutes</td>
+   <td colspan="2">Serving Suggestions: Serve with steamed rice or
+jasmine tea.</td>
+</tr>
+</table>
+</body>
+</html>
 
 
   
