@@ -3,7 +3,7 @@
 <head> <title> Taste of Travel </title>
   <meta charset="utf-8">
 <meta name="description" content=""Embark on a culinary adventure with Taste of Travel, exploring
-global flavors and recipes."/>
+global flavors and recipes.">
 <body>
 <title> Discover the flavors of thailand </title>
 <h1> Tom Yum Goong: A Spicy Thai Delight </h1>
@@ -30,14 +30,14 @@ global flavors and recipes."/>
   <h3> <p Tom Yum Goong is a classic Thai soup
 renowned for its bold flavors and aromatic spices. This hot and sour soup
 features a tantalizing blend of lemongrass, galangal, and kaffir lime
-leaves, combined with succulent shrimp. </p> </h3>
+leaves, combined with succulent shrimp.</p> </h3>
 <blockquote> a quote from Chef Somchai, a
 Thai cuisine expert, about the essence of Tom Yum Goong: "The key to a
 delicious Tom Yum Goong lies in the balance of flavors – sweet, sour,
 salty, and spicy. </blockquote>
-<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"/> 
-<alt="Tom Yum Goong"./>
-</br> </br>
+<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong"/>
+<br>
+<br>
 <table>
 <caption> Recipe Details </caption>
 <tr>
