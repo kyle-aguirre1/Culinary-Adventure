@@ -57,7 +57,7 @@ salty, and spicy. </blockquote>
     <td>500 g</td>
 </tr>
 <tr>
-   <td colspan="2">Preparation Time:20 Minutes</td>
+   <td colspan="2">Preparation Time: 20 Minutes</td>
    <td colspan="2">Serving Suggestions: Serve with steamed rice or
 jasmine tea.</td>
 </tr>
