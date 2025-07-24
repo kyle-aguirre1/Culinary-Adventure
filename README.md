@@ -35,5 +35,28 @@ leaves, combined with succulent shrimp. </p> </h3>
 Thai cuisine expert, about the essence of Tom Yum Goong: "The key to a
 delicious Tom Yum Goong lies in the balance of flavors – sweet, sour,
 salty, and spicy. </blockquote>
+<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"/> 
+<alt="Tom Yum Goong"./>
+</br> </br>
+<table>
+<caption> Recipe Details </caption>
+<tr>
+    <td>Ingredient</td>
+    <td>Quantity</td>
+</tr>
+<tr>
+    <td>Lemongrass</td>
+    <td>2 Stalks</td>
+    <td>Thai Badsil</td>
+    <td>1 Cup</td>
+    <td>Kaffir Lime Leaves</td>
+    <td>3 Leaves</td>
+    <td>Shirmp</td>
+    <td>500g</td>
+</tr>
 
+
+
+
+  
 
