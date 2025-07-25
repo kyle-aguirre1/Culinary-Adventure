@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head> <title> Taste of Travel </title>
+<head> 
   <meta charset=utf-8>
 <meta name="description" content=""Embark on a culinary adventure with Taste of Travel, exploring
 global flavors and recipes.">
+  <title> Taste of Travel </title>
 </head>
 <body>
 <title> Discover the flavors of thailand </title>
@@ -29,7 +30,7 @@ global flavors and recipes.">
 <li> <sup>1/4</sup> cup of fish sauce adds authentic Thai flavor. </li>
 <li> <sub>1</sub> tablespoon of chili paste gives the soup its signature heat. </li>    
   </ul>
-  <h3> <p Tom Yum Goong is a classic Thai soup
+  <h3> <p  Tom Yum Goong is a classic Thai soup
 renowned for its bold flavors and aromatic spices. This hot and sour soup
 features a tantalizing blend of lemongrass, galangal, and kaffir lime
 leaves, combined with succulent shrimp.</p> </h3>
@@ -59,12 +60,12 @@ salty, and spicy. </blockquote>
     <td>500 g</td>
 </tr>
 <tr>
-   <td colspan="2">Preparation Time: 20 Minutes</td>
-   <td colspan="2">Serving Suggestions: Serve with steamed rice or
-jasmine tea.</td>
+   <td colspan="2"Preparation Time: 20 Minutes</td>
+</tr>
+   <td colspan="2"Serving Suggestions: Serve with steamed rice or jasmine rice.</td>
 </tr>
 </table>
-</body>
+    </body>
 </html>
 
 
