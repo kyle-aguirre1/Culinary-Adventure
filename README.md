@@ -61,7 +61,6 @@ salty, and spicy. </blockquote>
 </tr>
 <tr>
    <td colspan="2"Preparation Time: 20 Minutes</td>
-</tr>
    <td colspan="2"Serving Suggestions: Serve with steamed rice or jasmine rice.</td>
 </tr>
 </table>
