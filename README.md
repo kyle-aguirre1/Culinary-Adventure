@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-
-<html lang="en">
-<head> 
-  <meta charset=utf-8>
-<meta name="description" content=""Embark on a culinary adventure with Taste of Travel, exploring
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Embark on a culinary adventure with Taste of Travel, exploring
 global flavors and recipes.">
   <title> Taste of Travel </title>
 </head>
@@ -60,8 +59,8 @@ salty, and spicy. </blockquote>
     <td>500 g</td>
 </tr>
 <tr>
-   <td colspan="2"Preparation Time: 20 Minutes</td>
-   <td colspan="2"Serving Suggestions: Serve with steamed rice or jasmine rice.</td>
+   <td colspan="2">Preparation Time: 20 Minutes</td>
+   <td colspan="2">Serving Suggestions: Serve with steamed rice or jasmine rice.</td>
 </tr>
 </table>
     </body>
